@@ -1,0 +1,231 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The happy husbandman: or, Country innocence. To a pleasant new court tune. This may be printed, R.P.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03753</idno>
+            <idno type="STC">Wing H669</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.8[205]</idno>
+            <idno type="EEBO-CITATION">99887715</idno>
+            <idno type="PROQUEST">ocm99887715</idno>
+            <idno type="VID">183369</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03753)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183369)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:2[160])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The happy husbandman: or, Country innocence. To a pleasant new court tune. This may be printed, R.P.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for P. Brooksby, at the Golden-Ball, in Pye-Corner,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1687]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "My young Mary do's mind the dairy ..."</note>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Imperfect: trimmed and stained.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb n="205" facs="tcp:183369:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 17 -->
+            <head>The Happy Husbandman OR, <hi>Country Innocence.</hi>
+            </head>
+            <opener>To a pleaſant New Court Tune.</opener>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>This may be Printed,</p>
+                        <closer>
+                           <signed>R. P.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>MY young <hi>Mary</hi> do's mind the Dairy,</l>
+               <l>while I go a Howing, and Mowing each Morn;</l>
+               <l>Then hey the little Spinning Wheel<g ref="char:punc">▪</g>
+               </l>
+               <l>Merrily round do's Reel while I am ſinging amidſt the Corn:</l>
+               <l>Cream and Kiſſes both are my Delight,</l>
+               <l>She gives me them, and the Ioys of Night;</l>
+               <l>She's ſoft as the Air,</l>
+               <l>As Morning fair,</l>
+               <l>Is not ſuch a Maid a moſt pleaſing ſight?</l>
+            </lg>
+            <lg>
+               <l>While I whiſtle, ſhe front the Thiſtle</l>
+               <l>does gather Down for to make us a Bed,</l>
+               <l>And then my little Love does lie</l>
+               <l>All the Night long, and dye</l>
+               <l>in the kind Arms of her <unclear>nown</unclear> dear <hi>Ned,</hi>
+               </l>
+               <l>There I taſte of a delicate Spring,</l>
+               <l>But I muſt not tell you, nor name, the thing,</l>
+               <l>To put you, a Wiſhing,</l>
+               <l>And think of Kiſſing,</l>
+               <l>For Kiſſes cauſe ſight and young Men <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</l>
+            </lg>
+            <lg>
+               <l>Sedge and Ruſhes, and tops of Buſhes</l>
+               <l>ſhall thatch our Roof, and ſhall <unclear>ſtrow</unclear> all our Floor,</l>
+               <l>And then the pritty Nightingales.</l>
+               <l>Will fly from Groves and Dales</l>
+               <l>to live with us, and we'll ne'er be Poor:</l>
+               <l>Little Lambkins, whenever they dye</l>
+               <l>Will bequeath new Blankets is thee and I,</l>
+               <l>Our Quilts, ſhall be, Roſes</l>
+               <l>Which <hi>June</hi> diſpoſes:</l>
+               <l>So warm and ſo ſweet my young Love ſhall be.</l>
+            </lg>
+            <lg>
+               <l>Fountains pure ſhall be thy Ewer</l>
+               <l>to ſprinkle Water upon thy fair Face;</l>
+               <l>And near the little Flock ſhall play</l>
+               <l>All the long Summer's Day;</l>
+               <l>gentle white Lambs will adorn the Place.</l>
+               <l>Then at Night we'll hie home to our Hive,</l>
+               <l>And (like Bees) enjoy all the ſweets, alive;</l>
+               <l>We'll taſt all Love's Treaſure,</l>
+               <l>And enjoy that Pleaſure,</l>
+               <l>While others for Fame and for Greatneſs ſtrive.</l>
+            </lg>
+            <lg>
+               <l>No Man's Frowns are on the Downs,</l>
+               <l>for truly there we moſt freely may ſing,</l>
+               <l>And kiſs the pretty <hi>Nancies,</hi>
+               </l>
+               <l>While Changes end Chances</l>
+               <l>amuſe all the Great, and Diſturbance bring.</l>
+               <l>We will with our young Lambs go to Bed,</l>
+               <l>And obſerve the Lives that our Fathers led;</l>
+               <l>We'll mind not Ambition,</l>
+               <l>Nor ſow Sedition,</l>
+               <l>And leave State-Affairs to the State-man's Head.</l>
+            </lg>
+            <lg>
+               <l>Oaten Reeds (thoſe humble Weeds)</l>
+               <l>ſhall be the Pipes upon which we will play,</l>
+               <l>And on the merry Mountain,</l>
+               <l>Or elſe by a Fountain,</l>
+               <l>we'll merrily paſs the ſweet time away:</l>
+               <l>Sure no Mortal can blame us for this.</l>
+               <l>And now mark the way of your <hi>London</hi> Miſs,</l>
+               <l>She maſters your Breeches,</l>
+               <l>And takes your Riches,</l>
+               <l>While we have more Ioys by a harmleſs Kiſſ</l>
+            </lg>
+            <lg>
+               <l>No Youth here need Willow wear,</l>
+               <l>no beauteous Maid will her Lover deſtroy:</l>
+               <l>The gentle little Laſs will yield</l>
+               <l>In the ſoft Dairy Field,</l>
+               <l>freely our Pleaſures we here enjoy:</l>
+               <l>No great <hi>Juno</hi> we boldly deſſe,</l>
+               <l>With young <hi>Cloris</hi> Cheeks, or fair Celia's Eye;</l>
+               <l>We let all theſe things alone,</l>
+               <l>And enjoy our own,</l>
+               <l>Every Night with our Beauties lie,</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed-for <hi>P. Brooksby</hi> at the <hi>Golden-Ball</hi> Pye-corner.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
